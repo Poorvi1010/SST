@@ -1,0 +1,47 @@
+#Heading
+{
+    font-family: 'Dancing Script', cursive;
+font-family: 'Peralta', cursive;
+    color:white;
+    background-color: black;
+    width: 100%;
+    height: 15%;
+    top: 0;
+    vertical-align: middle;
+    padding-top: 25px;
+    
+    
+
+}
+body
+{
+    font-family: 'Dancing Script', cursive;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+#footer
+{
+    position: fixed;
+   background-color:grey;
+    line-height: 3;
+    width: 100%;
+    text-align: center;
+    bottom: 0;
+    font-size: 25px;
+    color: black;
+
+}
+.Image
+{
+width: 600px;
+height:500px;
+
+}
+.button
+{
+    float: right;
+border: 1px solid white;
+top: 0;
+border-radius: 25px;
+font-size: 30px;
+}
